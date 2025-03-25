@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ali Itawi 👋</h1>
 
 <p align="center">
-I’m a <b>Back-End Engineer</b> specializing in <b>Spring Boot</b> and <b>Express.js</b>, with expertise in <b>Database Design</b> and <b>Design Patterns</b>. With over <b>500 problems solved on LeetCode</b>, I excel in tackling complex challenges. As a <b>Mathematician</b> and <b>Machine Learning enthusiast</b>, I combine analytical thinking with technical skills to create scalable, efficient, and intelligent systems.
+I’m a <b>Back-End Engineer</b> specializing in <b>Spring Boot</b> and <b>Express.js</b>, with expertise in <b>Database Design</b> and <b>Design Patterns</b>. With over <b>700 problems solved on LeetCode</b>, I excel in tackling complex challenges. As a <b>Mathematician</b> and <b>Machine Learning enthusiast</b>, I combine analytical thinking with technical skills to create scalable, efficient, and intelligent systems.
 </p>
 
 ---
