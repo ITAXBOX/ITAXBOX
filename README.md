@@ -10,9 +10,15 @@
 ---
 
 ### ⚡️ About Me
-- 🚀 I approach backend engineering with the precision and strategy of a Chess Player, solving technical challenges and crafting clean, maintainable code.
-- 🤝 From optimizing workflows to building intelligent systems, I provide IT support to resolve software issues efficiently.
-- 🌟 My focus lies in designing **robust architectures** that empower businesses to stay ahead of the game.
+-🚀 As a back-end engineer with a passion for Spring Boot, I tackle complex technical challenges and create scalable, distributed systems with precision and efficiency.
+
+-♟️ I approach coding like a Chess Player, strategizing every move to ensure clean, maintainable code and optimal solutions.
+
+-🤖 With a strong foundation in Mathematics and Machine Learning, I build high-performance, intelligent systems that solve real-world problems.
+
+-🌟 My expertise extends to designing robust, scalable architectures that empower businesses to optimize workflows and stay ahead of the curve.
+
+-💡 I also provide IT support, streamlining software troubleshooting and offering innovative solutions to enhance operational efficiency.
 
 ---
 
