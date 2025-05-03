@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Ali Itawi 👋</h1>
 
 <p align="center">
-I’m a <b>Back-End Engineer</b> specializing in <b>Spring Boot</b> and <b>Express.js</b>, with expertise in <b>Database Design</b> and <b>Design Patterns</b>. With over <b>700 problems solved on LeetCode</b>, I excel in tackling complex challenges. As a <b>Mathematician</b> and <b>Machine Learning enthusiast</b>, I combine analytical thinking with technical skills to create scalable, efficient, and intelligent systems.
+    I'm a back-end engineer specializing in <b>Spring Boot</b>, and I strongly focus on <b>scalable and distributed systems</b>. With over <b>700 problems solved on LeetCode</b>, I excel at tackling complex challenges through efficient algorithms and clean design patterns. As a <b>Mathematician</b> and <b>Machine Learning practitioner</b>, I blend analytical thinking with technical expertise to build intelligent, high-performance systems.
+</p>
+<p align="center">
+    I approach backend engineering with the precision and strategy of a <b>Chess Player</b>, solving complex technical challenges and crafting clean, maintainable code built to last. From optimizing workflows to building intelligent systems, I also provide <b>IT support</b> to resolve software issues efficiently. I design robust architectures that empower businesses to stay ahead of the game.
 </p>
 
 ---
