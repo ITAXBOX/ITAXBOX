@@ -69,11 +69,11 @@ I'm **Ali Itawi**, a back-end engineer specializing in **Spring Boot** and **dis
 
 ### 🌟 Spotlight Projects
 
+- ♟️ **[ChessMaster](https://github.com/ITAXBOX/ChessMaster)**  
+  (A full-featured chess game implementation built with Spring Boot.)
+
 - 🔲 **[LargestEmptySquare-DP](https://github.com/ITAXBOX/LargestEmptySquare-DP)**  
   A dynamic programming solution in C to find the largest empty square in a grid containing obstacles.
-
-- ⚡ **[RedisUrlShortener](https://github.com/ITAXBOX/RedisUrlShortener)**  
-  A modern URL shortener service using Spring Boot, Redis for data storage, and Docker for containerization.
 
 > 🔍 Want more? Browse the rest of my repos or visit [aliitawi.me](https://aliitawi.me/) for in-depth project overviews.
 
