@@ -72,8 +72,8 @@ I'm **Ali Itawi**, a back-end engineer specializing in **Spring Boot** and **dis
 - ♟️ **[ChessMaster](https://github.com/ITAXBOX/ChessMaster)**  
   (A full-featured chess game implementation built with Spring Boot.)
 
-- 🔲 **[LargestEmptySquare-DP](https://github.com/ITAXBOX/LargestEmptySquare-DP)**  
-  A dynamic programming solution in C to find the largest empty square in a grid containing obstacles.
+- 🔲 **[Push_Swap](https://github.com/ITAXBOX/Push_Swap)**  
+  A handcrafted C algorithm for sorting integers using two stacks and minimal operations, built for the 42 Push Swap challenge with a focus on optimization and performance.
 
 > 🔍 Want more? Browse the rest of my repos or visit [aliitawi.me](https://aliitawi.me/) for in-depth project overviews.
 
