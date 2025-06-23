@@ -62,7 +62,6 @@ I'm **Ali Itawi**, a back-end engineer specializing in **Spring Boot** and **dis
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ITAXBOX&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITAXBOX&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
