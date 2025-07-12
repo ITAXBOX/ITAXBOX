@@ -68,11 +68,11 @@ I'm **Ali Itawi**, a back-end engineer specializing in **Spring Boot** and **dis
 
 ### 🌟 Spotlight Projects
 
+- ⚙️ **[CodeForge](https://github.com/ITAXBOX/Code-Forge)**  
+  Code Forge is a revolutionary AI-powered full-stack application generator that transforms your ideas into production-ready applications in just one minute!
+  
 - ♟️ **[ChessMaster](https://github.com/ITAXBOX/ChessMaster)**  
-  (A full-featured chess game implementation built with Spring Boot.)
-
-- 🔲 **[Push_Swap](https://github.com/ITAXBOX/Push_Swap)**  
-  A handcrafted C algorithm for sorting integers using two stacks and minimal operations, built for the 42 Push Swap challenge with a focus on optimization and performance.
+  A comprehensive chess game built with Spring Boot, offering an interactive gameplay experience powered by a robust backend.
 
 > 🔍 Want more? Browse the rest of my repos or visit [aliitawi.me](https://aliitawi.me/) for in-depth project overviews.
 
