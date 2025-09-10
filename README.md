@@ -1,102 +1,117 @@
-<!-- Profile README - Ali Itawi (ITAXBOX) -->
+<!-- Next-Level Profile README - Ali Itawi (ITAXBOX) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=37B37A&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ali+Itawi!;Back-End+Engineer+%7C+Chess+Strategist;Spring+Boot+%7C+Distributed+Systems+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=37B37A&center=true&vCenter=true&width=900&lines=Ali%20Itawi%20%E2%9A%A1;Back-End%20Engineer%20%7C%20Chess%20Strategist%20%7C%2042%20Beirut%20Core;Distributed%20Systems%20%7C%20Problem%20Solver%20%7C%20Code%20Architect" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🚀 Welcome to My Digital Arena 🚀</h1>
+<h1 align="center">🏹 Engineer of Systems. Strategist of Code. 🏹</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ITAXBOX&style=flat-square&color=blue" alt="Profile Views" />
-  <a href="https://aliitawi.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-aliitawi.me-37B37A?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a>
-  <a href="https://www.linkedin.com/in/Ali-Itawi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-</p>
-
----
-
-### 👋 About Me
-
-I'm **Ali Itawi**, a back-end engineer specializing in **Spring Boot** and **distributed systems**. With over **700 LeetCode problems** solved and a mind shaped by chess, I tackle systems like puzzles: clean, scalable, and precise.
-
-- 🧠 42 Piscine graduate, mastered low-level C, memory, and pointer logic under pressure
-- 🛠️ Builder of robust, maintainable back-end architectures
-- ♟️ Chess strategist | Clean code advocate | Lifelong learner
-- 🌐 <a href="https://aliitawi.me/" target="_blank" rel="noopener noreferrer">Visit my portfolio</a>
-
----
-
-### 🧠 Highlights
-
-- 🎓 B.S. in Math & Computer Science
-- 🏗️ 700+ LeetCode problems solved, algorithmic thinker by design
-- 🧰 Created tools and systems that improve developer workflows
-- 🌍 Seeking high-impact roles in distributed systems & scalable architecture
-
----
-
-### 🚀 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <a href="https://aliitawi.me/" target="_blank"><img src="https://img.shields.io/badge/🌍%20Portfolio-aliitawi.me-37B37A?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/Ali-Itawi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ITAXBOX&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-### 🏅 GitHub Stats
+## ⚔️ Who Am I?  
+
+I am **Ali Itawi**, a back-end engineer who treats code like strategy.  
+Raised on **mathematics**, sharpened by **chess**, and battle-tested at **42 Beirut**  
+where days blurred into nights and C pointers became second nature.  
+
+But my true weapon is **Java**.  
+I am the master of its ecosystem, wielding **Spring Boot** to craft systems that scale, adapt, and endure.  
+
+I thrive in the **arena of distributed systems**, where complexity meets clarity.  
+Every project I build is not just code, it’s **precision engineering** designed for longevity.  
+
+---
+
+## 🧭 The Journey  
+
+- 🧠 **42 Beirut Member** → forged resilience in peer-driven, project-based learning.  
+- 🏆 **700+ LeetCode problems** → algorithms as second nature, puzzles as daily bread.  
+- 🛠 **Builder of scalable back-end systems** with Spring Boot & distributed design.  
+- ♟️ **Chess strategist** → every move deliberate, every line of code calculated.  
+
+---
+
+## 🚀 Boss-Level Projects  
+
+Each project is a **milestone** in my developer’s journey:
+
+### ⚙️ [CodeForge](https://github.com/ITAXBOX/Code-Forge)  
+> *Turn raw ideas into production-ready full-stack apps in minutes.*  
+AI-powered, developer-first, and a glimpse into the future of automation.  
+
+### ♟️ [ChessMaster](https://github.com/ITAXBOX/ChessMaster)  
+> *When strategy meets software.*  
+A robust chess engine & interactive platform, powered by **Spring Boot**.  
+
+### 🐚 [Minishell](https://github.com/ITAXBOX/Minishell)  
+> *Because real engineers write their own shell.*  
+Signals, processes, parsing, execution — a handcrafted UNIX shell in pure C.  
+
+### 🔄 [Philosophers](https://github.com/ITAXBOX/Philosophers)  
+> *The timeless dance of concurrency.*  
+Solving the **Dining Philosophers** problem with clean, efficient multithreading.  
+
+---
+
+## ⚡ Tech Arsenal  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ITAXBOX&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,c,js,nodejs,express,postgres,mysql,mongodb,redis,git,postman&theme=dark" />
 </p>
 
 ---
 
-### 🌟 Spotlight Projects
-
-- ⚙️ **[CodeForge](https://github.com/ITAXBOX/Code-Forge)**  
-  Code Forge is a revolutionary AI-powered full-stack application generator that transforms your ideas into production-ready applications in just one minute!
-  
-- ♟️ **[ChessMaster](https://github.com/ITAXBOX/ChessMaster)**  
-  A comprehensive chess game built with Spring Boot, offering an interactive gameplay experience powered by a robust backend.
-
-> 🔍 Want more? Browse the rest of my repos or visit [aliitawi.me](https://aliitawi.me/) for in-depth project overviews.
-
----
-
-### 💡 My Philosophy
-
-Like a good chess strategy, clean code is simple, calculated, and efficient. I write code that scales and systems that last, guided by relentless curiosity and precision.
-
-#### 🏆 Favorite Quote
-
-> "You can never quit. Winners never quit, and quitters never win."
-
----
-
-### 📫 Let’s Connect
+## 📊 My Stats  
 
 <p align="center">
-  <a href="https://aliitawi.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-aliitawi.me-37B37A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/Ali-Itawi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ITAXBOX&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITAXBOX&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ITAXBOX&theme=redical&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
+## 💡 Philosophy  
+
+Software is like chess:  
+- Every piece (module) has its role.  
+- Every move (commit) must be calculated.  
+- Every strategy (architecture) must anticipate the future.  
+
+I write code that’s **clean, scalable, and resilient** — built not for the sprint, but for the marathon.  
+
+---
+
+---
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <strong>"Clean code is strategy.  
+  Distributed systems are the battlefield.  
+  Java is my weapon of choice."</strong>
 </p>
+
+---
+
+---
+
+<p align="center">
+  <strong>"In chess, as in software, the best move is the one that endures." </strong>  
+</p>
+
+<p align="center">
+  <a href="https://aliitawi.me/"><img src="https://img.shields.io/badge/🌍%20Portfolio-aliitawi.me-37B37A?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/Ali-Itawi"><img src="https://img.shields.io/badge/🤝%20Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+
