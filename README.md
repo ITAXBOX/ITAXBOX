@@ -45,15 +45,15 @@ Each project is a **milestone** in my developer’s journey:
 > *Turn raw ideas into production-ready full-stack apps in minutes.*  
 AI-powered, developer-first, and a glimpse into the future of automation.  
 
-### ♟️ [ChessMaster](https://github.com/ITAXBOX/ChessMaster)  
+### ♟️ [ChessMaster](https://github.com/ITAXBOX/ChessMaster)
 > *When strategy meets software.*  
 A robust chess engine & interactive platform, powered by **Spring Boot**.  
 
-### 🐚 [Minishell](https://github.com/ITAXBOX/Minishell)  
+### 🐚 [Minishell](https://github.com/ITAXBOX/MINI_SHELL) 
 > *Because real engineers write their own shell.*  
 Signals, processes, parsing, execution — a handcrafted UNIX shell in pure C.  
 
-### 🔄 [Philosophers](https://github.com/ITAXBOX/Philosophers)  
+### 🔄 [Philosophers](https://github.com/ITAXBOX/Philosophers-Dining-Problem)  
 > *The timeless dance of concurrency.*  
 Solving the **Dining Philosophers** problem with clean, efficient multithreading.  
 
