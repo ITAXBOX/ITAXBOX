@@ -51,7 +51,7 @@ A robust chess engine & interactive platform, powered by **Spring Boot**.
 
 ### 🐚 [Minishell](https://github.com/ITAXBOX/MINI_SHELL) 
 > *Because real engineers write their own shell.*  
-Signals, processes, parsing, execution — a handcrafted UNIX shell in pure C.  
+Signals, processes, parsing, execution - a handcrafted UNIX shell in pure C.  
 
 ### 🔄 [Philosophers](https://github.com/ITAXBOX/Philosophers-Dining-Problem)  
 > *The timeless dance of concurrency.*  
