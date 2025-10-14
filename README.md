@@ -71,7 +71,6 @@ Solving the **Dining Philosophers** problem with clean, efficient multithreading
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ITAXBOX&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITAXBOX&theme=radical&hide_border=true" height="165" />
 </p>
 
 <p align="center">
@@ -87,7 +86,7 @@ Software is like chess:
 - Every move (commit) must be calculated.  
 - Every strategy (architecture) must anticipate the future.  
 
-I write code that’s **clean, scalable, and resilient** — built not for the sprint, but for the marathon.  
+I write code that’s **clean, scalable, and resilient** - built not for the sprint, but for the marathon.  
 
 ---
 
