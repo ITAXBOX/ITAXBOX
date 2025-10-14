@@ -53,9 +53,9 @@ A robust chess engine & interactive platform, powered by **Spring Boot**.
 > *Because real engineers write their own shell.*  
 Signals, processes, parsing, execution - a handcrafted UNIX shell in pure C.  
 
-### 🔄 [Philosophers](https://github.com/ITAXBOX/Philosophers-Dining-Problem)  
-> *The timeless dance of concurrency.*  
-Solving the **Dining Philosophers** problem with clean, efficient multithreading.  
+### 🔄 [Cub3D](https://github.com/ITAXBOX/cub3D)  
+> *Rediscovering the wonder of pixels and play.*
+Building a 3D raycasting engine inspired by Serious Sam, written in pure C with minilibx.
 
 ---
 
