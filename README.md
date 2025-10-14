@@ -92,12 +92,8 @@ I write code that’s **clean, scalable, and resilient** - built not for the spr
 
 ---
 
----
-
 <p align="center">
-  <strong>"Clean code is strategy.  
-  Distributed systems are the battlefield.  
-  Java is my weapon of choice."</strong>
+  <strong>""He who conquers himself is the mightiest warrior."</strong>
 </p>
 
 ---
