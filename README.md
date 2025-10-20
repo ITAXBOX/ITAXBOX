@@ -31,7 +31,7 @@ Every project I build is not just code, it’s **precision engineering** designe
 ## 🧭 The Journey  
 
 - 🧠 **42 Beirut Member** → forged resilience in peer-driven, project-based learning.  
-- 🏆 **700+ LeetCode problems** → algorithms as second nature, puzzles as daily bread.  
+- 🏆 **800+ LeetCode problems** → algorithms as second nature, puzzles as daily bread.  
 - 🛠 **Builder of scalable back-end systems** with Spring Boot & distributed design.  
 - ♟️ **Chess strategist** → every move deliberate, every line of code calculated.  
 
