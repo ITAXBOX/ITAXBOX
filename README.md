@@ -89,19 +89,10 @@ Software is like chess:
 I write code that’s **clean, scalable, and resilient** - built not for the sprint, but for the marathon.  
 
 ---
-
 ---
 
 <p align="center">
-  <strong>""He who conquers himself is the mightiest warrior."</strong>
-</p>
-
----
-
----
-
-<p align="center">
-  <strong>"In chess, as in software, the best move is the one that endures." </strong>  
+  <strong>"Master the direction, and the steps will follow. - Ali Itawi" </strong>  
 </p>
 
 <p align="center">
