@@ -326,7 +326,7 @@ Test-driven, documented, maintainable — no shortcuts.
   <a href="https://www.linkedin.com/in/Ali-Itawi">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ali.itawi@outlook.com">
+  <a href="mailto:aliitawi7@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ITAXBOX">
