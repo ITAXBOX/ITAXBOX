@@ -122,6 +122,9 @@ I architect **distributed systems** that don't just work - they scale, adapt, an
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
+
+<br>
+
 ---
 
 ## 📊 『 GITHUB ANALYTICS 』
@@ -136,6 +139,8 @@ I architect **distributed systems** that don't just work - they scale, adapt, an
 
 </div>
 <br>
+
+<div align="center">
 
 ### **📬 Reach Out**
 
@@ -153,14 +158,18 @@ I architect **distributed systems** that don't just work - they scale, adapt, an
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
+</div>
 <br>
 
 ---
 
+<div align="center">
+  
 ###  **"Master the direction, and the steps will follow."**
 
 <sub> Ali Itawi</sub>
+
+</div>
 
 <br>
 
