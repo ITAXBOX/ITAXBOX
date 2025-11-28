@@ -132,7 +132,6 @@ I architect **distributed systems** that don't just work - they scale, adapt, an
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ITAXBOX&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=37B37A&icon_color=37B37A&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ITAXBOX&theme=radical&hide_border=true&background=0D1117&ring=37B37A&fire=37B37A&currStreakLabel=37B37A" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ITAXBOX&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=37B37A&line=37B37A&point=FFFFFF" alt="Contribution Graph" />
 
