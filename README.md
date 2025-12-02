@@ -2,43 +2,8 @@
 
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Itawi%20⚡%20ITAXBOX&fontSize=42&fontAlignY=32&desc=Systems%20Architect%20%7C%20Code%20Strategist%20%7C%20Problem%20Solver&descSize=16&descAlignY=51&animation=twinkling" />
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=37B37A&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Back-End+Engineer+%7C+42+Beirut+Core+Student;800%2B+LeetCode+Problems+%7C+Spring+Boot+Master" alt="Typing Animation" />
-
-<br><br>
-
-
-<!-- Badges -->
-<p align="center">
-  <a href="https://aliitawi.me/" target="_blank">
-    <img src="https://img.shields.io/badge/�_Portfolio-aliitawi.me-00D9FF?style=for-the-badge&labelColor=000000" />
-  </a>
-  <a href="https://www.linkedin.com/in/Ali-Itawi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aliitawi7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ITAXBOX&style=for-the-badge&color=blueviolet&label=Profile+Views" />
-</p>
-
-<br>
-
-
 </div>
 
----
-
-<div align="center">
-
-## 🎯 『 MISSION STATEMENT 』
-
-**_"Architecting tomorrow's systems with today's code"_**
-
-</div>
-
-<br>
 
 ### ⚔️ **WHO AM I?**
 
@@ -51,8 +16,6 @@ I am **Ali Itawi** - a back-end engineer who treats code like chess strategy.
 Where sleepless nights transformed into mastery, and C pointers became extensions of thought.
 
 **My weapon of choice?** ☕ **Java + Spring Boot**
-
-I architect **distributed systems** that don't just work - they scale, adapt, and endure. Every project is **precision engineering** built for the long game.
 
 <br clear="right"/>
 
@@ -70,14 +33,6 @@ I architect **distributed systems** that don't just work - they scale, adapt, an
 | **Code Quality** | Production Grade | ![](https://img.shields.io/badge/-Professional-blue?style=flat-square) |
 
 </div>
-
-```diff
-+ 🧠 42 Beirut Core Student → Peer-driven excellence & project-based mastery
-+ 🏆 800+ LeetCode Problems → Algorithms as second nature, optimization as instinct
-+ 🛠 Spring Boot Specialist → Building enterprise-grade microservices
-+ ♟️ Chess Strategist → Every move calculated, every decision deliberate
-+ 🌍 Full-Stack Capable → From database to deployment, end-to-end ownership
-```
 
 ---
 
@@ -123,41 +78,6 @@ I architect **distributed systems** that don't just work - they scale, adapt, an
 
 </div>
 
-<br>
-
----
-
-## 📊 『 GITHUB ANALYTICS 』
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ITAXBOX&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=37B37A&icon_color=37B37A&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ITAXBOX&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=37B37A&line=37B37A&point=FFFFFF" alt="Contribution Graph" />
-
-
-</div>
-<br>
-
-<div align="center">
-
-### **📬 Reach Out**
-
-<p>
-  <a href="https://aliitawi.me/">
-    <img src="https://img.shields.io/badge/�_Portfolio-Visit_Site-00D9FF?style=for-the-badge&labelColor=000000&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/Ali-Itawi">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aliitawi7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ITAXBOX">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-</div>
 <br>
 
 ---
