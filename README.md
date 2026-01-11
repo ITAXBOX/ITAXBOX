@@ -4,7 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Itawi%20⚡%20ITAXBOX&fontSize=42&fontAlignY=32&desc=Systems%20Architect%20%7C%20Code%20Strategist%20%7C%20Problem%20Solver&descSize=16&descAlignY=51&animation=twinkling" />
 </div>
 
-
 ### ⚔️ **WHO AM I?**
 
 I am **Ali Itawi** - a back-end engineer who treats code like chess strategy.
