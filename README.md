@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Itawi%20⚡%20ITAXBOX&fontSize=42&fontAlignY=32&desc=Systems%20Architect%20%7C%20Code%20Strategist%20%7C%20Problem%20Solver&descSize=16&descAlignY=51&animation=twinkling" />
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Itawi%20⚡%20ITAXBOX&fontSize=42&fontAlignY=32&desc=Software%20Engineer%20Intern%20@%20Murex%20%7C%20Systems%20Architect&descSize=16&descAlignY=51" />
 </div>
 
 ### ⚔️ **WHO AM I?**
@@ -10,7 +10,8 @@ I am **Ali Itawi** - a back-end engineer who treats code like chess strategy.
 
 🧮 **Raised on mathematics**  
 ♟️ **Sharpened by chess**  
-💻 **Battle-tested at 42 Beirut**
+💻 **Battle-tested at 42 Beirut**  
+🏦 **Software Engineer Intern @ Murex**
 
 Where sleepless nights transformed into mastery, and C pointers became extensions of thought.
 
@@ -29,7 +30,7 @@ Where sleepless nights transformed into mastery, and C pointers became extension
 | **LeetCode Problems** | 800+ Solved | ![](https://img.shields.io/badge/-Elite-gold?style=flat-square) |
 | **42 School Projects** | Core Curriculum | ![](https://img.shields.io/badge/-Finalizing-success?style=flat-square) |
 | **System Architecture** | Distributed & Scalable | ![](https://img.shields.io/badge/-Expert-blueviolet?style=flat-square) |
-| **Code Quality** | Production Grade | ![](https://img.shields.io/badge/-Professional-blue?style=flat-square) |
+| **Professional Role** | Software Engineer Intern @ Murex | ![](https://img.shields.io/badge/-Fintech-black?style=flat-square) |
 
 </div>
 
@@ -59,13 +60,10 @@ Where sleepless nights transformed into mastery, and C pointers became extension
 
 ### **🔧 System & Tools**
 
-<img src="https://skillicons.dev/icons?i=c,git,docker,linux,postman&theme=dark" height="50" />
+<img src="https://skillicons.dev/icons?i=c,git&theme=dark" height="50" />
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
