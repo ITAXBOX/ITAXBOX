@@ -36,42 +36,40 @@ I am **Ali Itawi** - a software engineer who treats code like chess strategy.
 
 <div align="center">
 
-### **⚙️ Backend Mastery**
+### **⚙️ Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" height="50" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,typescript,python&theme=dark" height="50" />
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=spring,express,nextjs&theme=dark" height="50" />
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### **🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,angular&theme=dark" height="50" />
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### **🗄️ Database & Caching**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" height="50" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" height="50" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **🔧 System & Tools**
-
-<img src="https://skillicons.dev/icons?i=c,git&theme=dark" height="50" />
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-  
-###  **"We are what we repeatedly do. Excellence, then, is not an act, but a habit."**
-
-<sub> Aristotle </sub>
 
 </div>
 
