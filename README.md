@@ -73,9 +73,9 @@ Where sleepless nights transformed into mastery, and C pointers became extension
 
 <div align="center">
   
-###  **"Master the direction, and the steps will follow."**
+###  **"We are what we repeatedly do. Excellence, then, is not an act, but a habit."**
 
-<sub> Ali Itawi</sub>
+<sub> Aristotle </sub>
 
 </div>
 
