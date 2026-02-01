@@ -84,3 +84,6 @@ Where sleepless nights transformed into mastery, and C pointers became extension
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
+
+
+![GitHub Space Shooter](game.gif)
