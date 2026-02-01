@@ -13,10 +13,6 @@ I am **Ali Itawi** - a software engineer who treats code like chess strategy.
 💻 **Battle-tested at 42 Beirut**  
 🏦 **Software Engineer Intern @ Murex**
 
-Where sleepless nights transformed into mastery, and C pointers became extensions of thought.
-
-**My weapon of choice?** ☕ **Java + Spring Boot**
-
 <br clear="right"/>
 
 ---
