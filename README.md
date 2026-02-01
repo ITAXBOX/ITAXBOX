@@ -6,7 +6,7 @@
 
 ### ⚔️ **WHO AM I?**
 
-I am **Ali Itawi** - a back-end engineer who treats code like chess strategy.
+I am **Ali Itawi** - a software engineer who treats code like chess strategy.
 
 🧮 **Raised on mathematics**  
 ♟️ **Sharpened by chess**  
