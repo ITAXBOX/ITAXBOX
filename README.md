@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Itawi%20⚡%20ITAXBOX&fontSize=42&fontAlignY=32&desc=Software%20Engineer%20Intern%20@%20Murex%20%7C%20Systems%20Architect&descSize=16&descAlignY=51" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Itawi%20⚡%20ITAXBOX&fontSize=42&fontAlignY=32&desc=Software%20Engineer%20Intern%20@%20Murex&descSize=16&descAlignY=51" />
 </div>
 
 ### ⚔️ **WHO AM I?**
