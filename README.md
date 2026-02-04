@@ -73,5 +73,6 @@ I am **Ali Itawi** - a software engineer who treats code like chess strategy.
 
 </div>
 
+---
 
 ![GitHub Space Shooter](game.gif)
