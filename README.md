@@ -61,7 +61,7 @@ I am **Ali Itawi** - a software engineer who treats code like chess strategy.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### **🗄️ Database & Caching**
+### **🗄️ Database**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" height="50" />
 
