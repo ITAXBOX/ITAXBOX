@@ -13,8 +13,6 @@ I am **Ali Itawi** - a software engineer who treats code like chess strategy.
 💻 **Battle-tested at 42 Beirut**  
 🏦 **Software Engineer Intern @ Murex**
 
-<br clear="right"/>
-
 ---
 
 ## 🏆 『 ACHIEVEMENTS & MILESTONES 』
