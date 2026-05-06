@@ -23,8 +23,8 @@ I am **Ali Itawi** - a software engineer who treats code like chess strategy.
 |:---------:|:--------------:|:---------:|
 | **LeetCode Problems** | 800+ Solved | ![](https://img.shields.io/badge/-Elite-gold?style=flat-square) |
 | **42 School Projects** | Core Curriculum | ![](https://img.shields.io/badge/-Finalizing-success?style=flat-square) |
-| **System Architecture** | Distributed & Scalable | ![](https://img.shields.io/badge/-Expert-blueviolet?style=flat-square) |
 | **Professional Role** | Software Engineer Intern @ Murex | ![](https://img.shields.io/badge/-Fintech-black?style=flat-square) |
+| **Security Focus** | Malware Analysis & Reverse Engineering | ![](https://img.shields.io/badge/-Offensive%20Security-critical?style=flat-square) |
 
 </div>
 
