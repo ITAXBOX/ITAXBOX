@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Itawi%20⚡%20ITAXBOX&fontSize=42&fontAlignY=32&desc=Software%20Engineer%20Intern%20@%20Murex&descSize=16&descAlignY=51" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Itawi%20⚡%20ITAXBOX&fontSize=42&fontAlignY=32&desc=Software%20Engineer%20@%20Murex&descSize=16&descAlignY=51" />
 </div>
 
 ### ⚔️ **WHO AM I?**
@@ -11,7 +11,7 @@ I am **Ali Itawi** - a software engineer who treats code like chess strategy.
 🧮 **Raised on mathematics**  
 ♟️ **Sharpened by chess**  
 💻 **Battle-tested at 42 Beirut**  
-🏦 **Software Engineer Intern @ Murex**
+🏦 **Software Engineer @ Murex**
 
 ---
 
@@ -23,7 +23,7 @@ I am **Ali Itawi** - a software engineer who treats code like chess strategy.
 |:---------:|:--------------:|:---------:|
 | **LeetCode Problems** | 800+ Solved | ![](https://img.shields.io/badge/-Elite-gold?style=flat-square) |
 | **42 School Projects** | Core Curriculum | ![](https://img.shields.io/badge/-Finalizing-success?style=flat-square) |
-| **Professional Role** | Software Engineer Intern @ Murex | ![](https://img.shields.io/badge/-Fintech-black?style=flat-square) |
+| **Professional Role** | Software Engineer @ Murex | ![](https://img.shields.io/badge/-Fintech-black?style=flat-square) |
 | **Security Focus** | Malware Analysis & Reverse Engineering | ![](https://img.shields.io/badge/-Offensive%20Security-critical?style=flat-square) |
 
 </div>
