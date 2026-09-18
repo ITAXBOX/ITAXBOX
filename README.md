@@ -2,7 +2,7 @@
 
 # Ali Itawi
 
-### Software Engineer · Backend & Systems · Security-Minded
+### Software Engineer · Backend & Systems
 
 I build software by understanding what happens **beneath the abstraction**.
 
@@ -156,21 +156,6 @@ ENGINEERING
 System Design · Data Structures & Algorithms · Design Patterns
 SOLID · OOP · Networking · Operating Systems · Security
 ```
-
----
-
-## GitHub
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ITAXBOX&theme=github_dark" />
-
-<br/>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ITAXBOX&theme=github_dark" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITAXBOX&theme=github_dark" />
-
-</div>
 
 ---
 
